@@ -1,0 +1,15 @@
+
+# initialize my data variable 
+
+data =[]
+
+# read and parse he data file
+
+filename = 'data/wxobs20170821.txt"
+with open(filename, 'r') as datafile:
+
+    for _ in range(r):
+        datafile.readline()
+        print(_)
+
+
